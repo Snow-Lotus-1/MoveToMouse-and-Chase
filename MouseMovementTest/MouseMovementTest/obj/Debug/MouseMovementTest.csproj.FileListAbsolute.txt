@@ -1,0 +1,36 @@
+C:\Users\Jason\Desktop\Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.exe.config
+C:\Users\Jason\Desktop\Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.exe
+C:\Users\Jason\Desktop\Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.pdb
+C:\Users\Jason\Desktop\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.Form1.resources
+C:\Users\Jason\Desktop\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.Properties.Resources.resources
+C:\Users\Jason\Desktop\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.exe
+C:\Users\Jason\Desktop\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.pdb
+F:\Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.exe.config
+F:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.exe
+F:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.pdb
+F:\Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.exe
+F:\Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.pdb
+F:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.csprojResolveAssemblyReference.cache
+F:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.Form1.resources
+F:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.Properties.Resources.resources
+F:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.csproj.GenerateResource.Cache
+G:\Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.exe.config
+G:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.exe
+G:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.pdb
+G:\Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.exe
+G:\Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.pdb
+G:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.csprojResolveAssemblyReference.cache
+G:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.Form1.resources
+G:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.Properties.Resources.resources
+G:\Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.csproj.GenerateResource.Cache
+F:\New Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.exe.config
+F:\New Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.exe
+F:\New Free Time\MouseMovementTest\MouseMovementTest\bin\Debug\MouseMovementTest.pdb
+F:\New Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.csprojResolveAssemblyReference.cache
+F:\New Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.Form1.resources
+F:\New Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.Properties.Resources.resources
+F:\New Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.csproj.GenerateResource.Cache
+F:\New Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.exe
+F:\New Free Time\MouseMovementTest\MouseMovementTest\obj\Debug\MouseMovementTest.pdb
